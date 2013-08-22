@@ -1,0 +1,6 @@
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\bin\Debug\XmlToOracleData.exe.config
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\bin\Debug\XmlToOracleData.exe
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\bin\Debug\XmlToOracleData.pdb
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\obj\Debug\XmlToOracleData.exe
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\obj\Debug\XmlToOracleData.pdb
+E:\SkyDrive\Projects\浦发事项\上线程序\XmlToOracleData\obj\Debug\XmlToOracleData.csprojResolveAssemblyReference.cache
