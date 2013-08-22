@@ -41,6 +41,7 @@ namespace XmlToOracleData
             MemoryStream memoryStream = new MemoryStream(encoding.GetBytes(pXmlizedString));
             System.Xml.XmlTextWriter xmlTextWriter = new System.Xml.XmlTextWriter(memoryStream, Encoding.UTF8);
             return (T)xs.Deserialize(memoryStream);
+			
         }
     }
 
